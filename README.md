@@ -3,7 +3,7 @@
 A sleek, neon-themed developer portfolio showcasing Full Stack Development and AI/ML skills.
 
 ## 🚀 Live Demo
-Visit: [Your GitHub Pages URL will be here]
+Visit:
 
 ## ✨ Features
 - **Neon Theme** with animated effects
@@ -31,7 +31,7 @@ Visit: [Your GitHub Pages URL will be here]
 1. Push to GitHub repository
 2. Go to Settings > Pages
 3. Select source branch (main/master)
-4. Your site will be live at: `https://username.github.io/repository-name`
+
 
 ### Netlify (Alternative)
 1. Drag and drop the folder to netlify.com
